@@ -1,0 +1,16 @@
+global:
+  scrape_interval: 15s
+
+scrape_configs:
+  - job_name: "kafka"
+    static_configs:
+      - targets: ["kafka:8080"]
+
+  - job_name: "prometheus"
+    static_configs:
+      - targets: ["localhost:9090"]
+
+  # NEW SCRAPE JOB for streamer
+  - job_name: "streamer"
+    static_configs:
+      - targets: ["host.docker.internal:8000"]

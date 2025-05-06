@@ -1,0 +1,45 @@
+id,season,city,date,team1,team2,toss_winner,toss_decision,result,dl_applied,winner,win_by_runs,win_by_wickets,player_of_match,venue,umpire1,umpire2,umpire3
+1388406,2023,Colombo,2023/09/11,India,Pakistan,Pakistan,field,normal,0,India,228,0,V Kohli,"R Premadasa Stadium, Colombo",CB Gaffaney,RSA Palliyaguruge,RK Illingworth
+1388394,2023,Kandy,2023/09/02,India,Pakistan,India,bat,normal,0,,0,0,,Pallekele International Cricket Stadium,RK Illingworth,RSA Palliyaguruge,P Wilson
+1144504,2019,Manchester,2019/06/16,India,Pakistan,Pakistan,field,D/L,1,India,89,0,RG Sharma,Old Trafford,BNJ Oxenford,M Erasmus,JS Wilson
+1153251,2018,,2018/09/23,Pakistan,India,Pakistan,bat,normal,0,India,0,9,S Dhawan,Dubai International Cricket Stadium,RJ Tucker,RSA Palliyaguruge,GO Brathwaite
+1153247,2018,,2018/09/19,Pakistan,India,Pakistan,bat,normal,0,India,0,8,B Kumar,Dubai International Cricket Stadium,M Erasmus,RSA Palliyaguruge,GO Brathwaite
+1022375,2017,London,2017/06/18,India,Pakistan,India,field,normal,0,Pakistan,180,0,Fakhar Zaman,Kennington Oval,M Erasmus,RA Kettleborough,RJ Tucker
+1022353,2017,Birmingham,2017/06/04,India,Pakistan,Pakistan,field,D/L,1,India,124,0,Yuvraj Singh,Edgbaston,HDPK Dharmasena,M Erasmus,RA Kettleborough
+656405,2014/15,,2015/02/15,India,Pakistan,India,bat,normal,0,India,76,0,V Kohli,Adelaide Oval,IJ Gould,RA Kettleborough,SJ Davis
+710301,2013/14,Mirpur,2014/03/02,India,Pakistan,Pakistan,field,normal,0,Pakistan,0,1,Mohammad Hafeez,Shere Bangla National Stadium,NJ Llong,BNJ Oxenford,RR Wimalasiri
+578623,2013,Birmingham,2013/06/15,India,Pakistan,India,field,D/L,1,India,0,8,B Kumar,Edgbaston,IJ Gould,RA Kettleborough,HDPK Dharmasena
+589310,2012/13,Delhi,2013/01/06,India,Pakistan,India,bat,normal,0,India,10,0,MS Dhoni,Feroz Shah Kotla,S Asnani,BF Bowden,VA Kulkarni
+589309,2012/13,Kolkata,2013/01/03,India,Pakistan,India,field,normal,0,Pakistan,85,0,Nasir Jamshed,Eden Gardens,BF Bowden,VA Kulkarni,S Ravi
+589308,2012/13,Chennai,2012/12/30,India,Pakistan,Pakistan,field,normal,0,Pakistan,0,6,MS Dhoni,"MA Chidambaram Stadium, Chepauk",BF Bowden,S Ravi,S Asnani
+535798,2011/12,Mirpur,2012/03/18,India,Pakistan,Pakistan,bat,normal,0,India,0,6,V Kohli,Shere Bangla National Stadium,SJ Davis,IJ Gould,Sharfuddoula
+433605,2010/11,Chandigarh,2011/03/30,India,Pakistan,India,bat,normal,0,India,29,0,SR Tendulkar,"Punjab Cricket Association Stadium, Mohali",IJ Gould,SJA Taufel,BF Bowden
+455234,2010,,2010/06/19,India,Pakistan,Pakistan,bat,normal,0,India,0,3,G Gambhir,Rangiri Dambulla International Stadium,BF Bowden,BR Doctrove,Sharfuddoula
+415278,2009/10,Centurion,2009/09/26,India,Pakistan,Pakistan,bat,normal,0,Pakistan,54,0,Shoaib Malik,SuperSport Park,SJ Davis,SJA Taufel,IJ Gould
+335355,2008,Karachi,2008/07/02,Pakistan,India,India,bat,normal,0,Pakistan,0,8,Younis Khan,National Stadium,IJ Gould,AL Hill,AFM Akhtaruddin
+335351,2008,Karachi,2008/06/26,Pakistan,India,Pakistan,bat,normal,0,India,0,6,SK Raina,National Stadium,AL Hill,BG Jerling,AFM Akhtaruddin
+345471,2008,Mirpur,2008/06/14,India,Pakistan,Pakistan,bat,normal,0,Pakistan,25,0,Younis Khan,Shere Bangla National Stadium,EAR de Silva,Nadir Shah,AFM Akhtaruddin
+345469,2008,Mirpur,2008/06/10,India,Pakistan,India,bat,normal,0,India,140,0,V Sehwag,Shere Bangla National Stadium,EAR de Silva,Enamul Haque,AFM Akhtaruddin
+297805,2007/08,Jaipur,2007/11/18,India,Pakistan,India,field,normal,0,Pakistan,31,0,Shoaib Malik,Sawai Mansingh Stadium,BR Doctrove,SL Shastri,AM Saheba
+297804,2007/08,Gwalior,2007/11/15,India,Pakistan,Pakistan,bat,normal,0,India,0,6,SR Tendulkar,Captain Roop Singh Stadium,BR Doctrove,AM Saheba,GA Pratapkumar
+297803,2007/08,Kanpur,2007/11/11,India,Pakistan,Pakistan,field,normal,0,India,46,0,Yuvraj Singh,Green Park,IJ Gould,AM Saheba,SL Shastri
+297802,2007/08,Chandigarh,2007/11/08,India,Pakistan,India,bat,normal,0,Pakistan,0,4,Younis Khan,"Punjab Cricket Association Stadium, Mohali",IJ Gould,SL Shastri,AM Saheba
+297801,2007/08,Guwahati,2007/11/05,India,Pakistan,Pakistan,bat,normal,0,India,0,5,MS Dhoni,Nehru Stadium,IJ Gould,AM Saheba,GA Pratapkumar
+244511,2005/06,Abu Dhabi,2006/04/19,India,Pakistan,India,bat,normal,0,India,51,0,R Dravid,Sheikh Zayed Stadium,BG Jerling,RE Koertzen,TH Wijewardene
+244510,2005/06,Abu Dhabi,2006/04/18,India,Pakistan,India,bat,normal,0,Pakistan,0,6,Younis Khan,Sheikh Zayed Stadium,BG Jerling,RE Koertzen,TH Wijewardene
+237571,2005/06,Karachi,2006/02/19,Pakistan,India,India,field,normal,0,India,0,8,Yuvraj Singh,National Stadium,Aleem Dar,SA Bucknor,Asad Rauf
+237222,2005/06,,2006/02/16,Pakistan,India,India,field,normal,0,India,0,5,RP Singh,Multan Cricket Stadium,Asad Rauf,SA Bucknor,Zameer Haider
+236809,2005/06,Lahore,2006/02/13,Pakistan,India,India,field,normal,0,India,0,5,MS Dhoni,Gaddafi Stadium,Asad Rauf,SJA Taufel,Zameer Haider
+236520,2005/06,,2006/02/11,Pakistan,India,Pakistan,bat,normal,0,India,0,7,IK Pathan,Rawalpindi Cricket Stadium,Asad Rauf,SJA Taufel,Zameer Haider
+235831,2005/06,Peshawar,2006/02/06,Pakistan,India,Pakistan,field,D/L,1,Pakistan,7,0,Salman Butt,Arbab Niaz Stadium,Asad Rauf,SJA Taufel,Zameer Haider
+64943,2004/05,Delhi,2005/04/17,Pakistan,India,Pakistan,bat,normal,0,Pakistan,159,0,Shoaib Malik,Arun Jaitley Stadium,RE Koertzen,AV Jayaprakash,K Hariharan
+64942,2004/05,Kanpur,2005/04/15,India,Pakistan,India,bat,normal,0,Pakistan,0,5,Shahid Afridi,Green Park,RE Koertzen,K Hariharan,I Shivram
+64941,2004/05,Ahmedabad,2005/04/12,India,Pakistan,India,bat,normal,0,Pakistan,0,3,Inzamam-ul-Haq,"Sardar Patel (Gujarat) Stadium, Motera",RE Koertzen,K Hariharan,I Shivram
+64939,2004/05,Visakhapatnam,2005/04/05,India,Pakistan,India,bat,normal,0,India,58,0,MS Dhoni,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,BF Bowden,AV Jayaprakash,I Shivram
+66207,2004,Birmingham,2004/09/19,India,Pakistan,Pakistan,field,normal,0,Pakistan,0,3,Mohammad Yousuf,Edgbaston,RE Koertzen,SJA Taufel,SA Bucknor
+66374,2004,Amstelveen,2004/08/21,Pakistan,India,India,field,D/L,1,Pakistan,66,0,Shoaib Malik,VRA Cricket Ground,DR Shepherd,SA Bucknor,JW Lloyds
+64885,2003/04,Lahore,2004/03/24,India,Pakistan,Pakistan,field,normal,0,India,40,0,VVS Laxman,Gaddafi Stadium,DR Shepherd,Nadeem Ghauri,Zameer Haider
+64884,2003/04,Lahore,2004/03/21,Pakistan,India,Pakistan,bat,normal,0,India,0,5,Inzamam-ul-Haq,Gaddafi Stadium,Asad Rauf,SJA Taufel,Nadeem Ghauri
+64883,2003/04,Peshawar,2004/03/19,India,Pakistan,Pakistan,field,normal,0,Pakistan,0,4,Yasir Hameed,Arbab Niaz Stadium,DR Shepherd,Nadeem Ghauri,Asad Rauf
+64882,2003/04,Rawalpindi,2004/03/16,Pakistan,India,Pakistan,bat,normal,0,Pakistan,12,0,SR Tendulkar,Rawalpindi Cricket Stadium,Asad Rauf,SJA Taufel,Zameer Haider
+65268,2002/03,Centurion,2003/03/01,Pakistan,India,Pakistan,bat,normal,0,India,0,6,SR Tendulkar,"SuperSport Park, Centurion",DR Shepherd,RE Koertzen,BF Bowden
